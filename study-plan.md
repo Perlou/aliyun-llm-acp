@@ -280,3 +280,22 @@
 | 应用开发   | ✅ 完成 | 2026-02-05 |
 | 多模态     | ✅ 完成 | 2026-02-05 |
 | 伦理安全   | ✅ 完成 | 2026-02-05 |
+
+---
+
+## 📦 阶段材料汇总
+
+### 阶段二：实践项目 ✅
+
+- [Project 1: 企业知识库](./practice/week3/project1_knowledge_base/main.py)
+- [Project 2: 智能客服Agent](./practice/week3/project2_agent_service/main.py)
+- [Project 3: 百炼平台实操](./practice/week3/project3_bailian_platform/main.py)
+
+### 阶段三：刷题强化 ✅ (135题)
+
+- [专项题库目录](./questions/mock-tests/README.md)
+
+### 阶段四：考前冲刺 ✅ (100题)
+
+- [全真模拟试卷](./questions/mock-exam/full_mock_exam.md)
+- [考试当天清单](./questions/mock-exam/exam_day_checklist.md)
