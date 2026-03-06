@@ -44,10 +44,15 @@
 
 ## 🎯 备考资源
 
+### 官方 GitHub 教程
+
+- **教程仓库**: https://github.com/AlibabaCloudDocs/aliyun_acp_learning
+- **快速入口 (Notebook)**: [用大模型构建新人答疑机器人](https://github.com/AlibabaCloudDocs/aliyun_acp_learning/blob/main/大模型ACP认证教程/p2_构造大模型问答系统/2_1_用大模型构建新人答疑机器人.ipynb)
+
 ### 考试大纲
 
-- 官方考纲: 认证页面下载
-- GitHub 整理: https://github.com/topics/aliyun-acp
+- 官方考纲: 认证页面下载 / GitHub 仓库内附
+- GitHub 整理: https://github.com/AlibabaCloudDocs/aliyun_acp_learning
 
 ### 模拟题资源
 
