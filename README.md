@@ -4,7 +4,9 @@
 >
 > 📅 **认证官网**: https://edu.aliyun.com/certification/acp26
 >
-> 📖 **官方教程**: https://github.com/AlibabaCloudDocs/aliyun_acp_learning
+> 📖 **官方教程(建议优先学完)**: https://github.com/AlibabaCloudDocs/aliyun_acp_learning
+>
+> 📖 **刷题平台(推荐，优先购买付费题库，每个月题库都会更新)**: https://www.kaoshibao.com/online/search/?keyword=%E9%98%BF%E9%87%8C%E4%BA%91%E5%A4%A7%E6%A8%A1%E5%9E%8Bacp&type=2&qtype=&paperid=
 
 ## 📊 考试概览
 
